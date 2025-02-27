@@ -1,0 +1,27 @@
+{
+  "name": "diverge-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "serve src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimona3ds/diverge-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vimona3ds/diverge-playground/issues"
+  },
+  "homepage": "https://github.com/vimona3ds/diverge-playground#readme",
+  "description": "",
+  "dependencies": {
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
